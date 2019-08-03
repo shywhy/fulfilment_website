@@ -7,7 +7,7 @@
  Author URI: http://themeforest.net/user/ui-themez
  Version: 1.0
 
- Main Color   : #1A237E , #2576FD
+ Main Color   : #00887b , #2576FD
  main Font    : Rubik
 
 -----------------------------------------------------------------------------------*/
@@ -339,7 +339,7 @@ a:hover {
 
 .owl-theme .owl-dots .owl-dot.active span,
 .owl-theme .owl-dots .owl-dot:hover span {
-  background: #1A237E;
+  background: #00887b;
 }
 
 .cd-headline {
@@ -428,6 +428,7 @@ a:hover {
   border-radius: 30px;
   border: 1px solid transparent;
   position: relative;
+  font-size: 30px !important;
   z-index: 3;
   margin-left: 10px;
   margin-right: 10px;
@@ -461,30 +462,30 @@ a:hover {
 }
 
 .butn-bg {
-  background: #1A237E;
-  border-color: #1A237E;
+  background: #00887b;
+  border-color: #00887b;
   color: #fff;
 }
 .butn-bg:hover span {
-  color: #1A237E;
+  color: #00887b;
 }
 
 .butn-light, .butn-bord {
   background: #fff;
 }
 .butn-light:after, .butn-bord:after {
-  background: #1A237E;
+  background: #00887b;
 }
 .butn-light:hover span, .butn-bord:hover span {
   color: #fff !important;
 }
 .butn-light span, .butn-bord span {
-  color: #1A237E;
+  color: #00887b;
 }
 
 .butn-bord {
   background: transparent !important;
-  border-color: #1A237E;
+  border-color: #00887b;
 }
 
 /* ----------------------------------------------------------------
@@ -507,7 +508,7 @@ a:hover {
   color: #fff;
 }
 .navbar .navbar-nav .nav-link {
-  font-size: 13px;
+  font-size: 15px;
   font-weight: 500;
   color: #eee;
   letter-spacing: .5px;
@@ -516,7 +517,7 @@ a:hover {
   transition: all .5s;
 }
 .navbar .navbar-nav .active {
-  color: #2576FD !important;
+  color: #00887b !important;
 }
 
 .nav-scroll {
@@ -611,7 +612,7 @@ a:hover {
   width: 7px;
   height: 7px;
   border-radius: 50%;
-  background: #1A237E;
+  background: #00887b;
   position: absolute;
   top: 10px;
   right: 0;
@@ -731,9 +732,9 @@ a:hover {
   position: absolute;
   top: 0;
   right: 0;
-  background-color: #1A237E;
-  background: -webkit-gradient(linear, left top, right bottom, from(#2576FD), to(#1A237E));
-  background: linear-gradient(to bottom right, #2576FD, #1A237E);
+  background-color: #00887b;
+  background: -webkit-gradient(linear, left top, right bottom, from(#2576FD), to(#00887b));
+  background: linear-gradient(to bottom right, #2576FD, #00887b);
   border-radius: 50%;
   z-index: -1;
   -webkit-transform: scale(0, 0);
@@ -747,7 +748,7 @@ a:hover {
   margin-bottom: 10px;
 }
 .hero .feat-item h6 {
-  color: #1A237E;
+  color: #00887b;
   font-size: 12px;
   font-weight: 400;
   font-style: italic;
@@ -770,9 +771,9 @@ a:hover {
   z-index: 5;
 }
 .tabs-section .nav-pills .nav-link.active {
-  border-top-color: #1A237E;
+  border-top-color: #00887b;
   background-color: #fff;
-  color: #1A237E;
+  color: #00887b;
 }
 .tabs-section .tab-content .left {
   padding: 0;
@@ -807,14 +808,14 @@ a:hover {
 }
 .tabs-section .tab-content .left .feat li:hover {
   color: #fff;
-  background-color: #1A237E;
+  background-color: #00887b;
 }
 .tabs-section .tab-content .left .feat li:hover .icon {
   color: #eee;
 }
 .tabs-section .tab-content .left .feat .icon {
   font-size: 30px;
-  color: #1A237E;
+  color: #00887b;
   margin-bottom: 15px;
 }
 .tabs-section .tab-content .left .feat h6 {
@@ -843,7 +844,7 @@ a:hover {
   text-align: center;
   line-height: 1.5;
   font-size: 70px;
-  color: #1A237E;
+  color: #00887b;
   z-index: 3;
 }
 .tabs-section .tab-content .image .img .vid:hover:after {
@@ -895,9 +896,9 @@ a:hover {
   top: 0;
   left: 0;
   border-radius: 20px;
-  background-color: #1A237E;
-  background: -webkit-gradient(linear, left top, right bottom, from(#2576FD), to(#1A237E));
-  background: linear-gradient(to bottom right, #2576FD, #1A237E);
+  background-color: #00887b;
+  background: -webkit-gradient(linear, left top, right bottom, from(#2576FD), to(#00887b));
+  background: linear-gradient(to bottom right, #2576FD, #00887b);
   -webkit-transition: all 1.5s;
   transition: all 1.5s;
 }
@@ -945,7 +946,7 @@ a:hover {
   transition: all .3s;
 }
 .process .item .cont:hover {
-  background-color: #1A237E;
+  background-color: #00887b;
 }
 .process .item .cont:hover h6 {
   color: #fff;
@@ -1006,9 +1007,9 @@ a:hover {
   cursor: pointer;
 }
 .works .filtering .active {
-  background: #1A237E;
-  background: -webkit-gradient(linear, left top, right top, from(#1A237E), to(#2576FD));
-  background: linear-gradient(to right, #1A237E, #2576FD);
+  background: #00887b;
+  background: -webkit-gradient(linear, left top, right top, from(#00887b), to(#2576FD));
+  background: linear-gradient(to right, #00887b, #2576FD);
   -webkit-box-shadow: 0px 8px 30px -5px rgba(0, 0, 0, 0.2);
           box-shadow: 0px 8px 30px -5px rgba(0, 0, 0, 0.2);
   color: #fff;
@@ -1042,13 +1043,13 @@ a:hover {
   height: 40px;
   line-height: 40px;
   border-radius: 50%;
-  border: 1px solid #1A237E;
+  border: 1px solid #00887b;
   text-align: center;
   font-size: 20px;
-  color: #1A237E;
+  color: #00887b;
 }
 .works .item-img-overlay p {
-  color: #1A237E;
+  color: #00887b;
   font-weight: 400;
   font-size: 13px;
 }
@@ -1098,9 +1099,9 @@ a:hover {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background-color: #1A237E;
-  background: -webkit-gradient(linear, left top, right top, from(#1A237E), to(#2576FD));
-  background: linear-gradient(to right, #1A237E, #2576FD);
+  background-color: #00887b;
+  background: -webkit-gradient(linear, left top, right top, from(#00887b), to(#2576FD));
+  background: linear-gradient(to right, #00887b, #2576FD);
   position: absolute;
   top: 0;
   left: 0;
@@ -1152,8 +1153,8 @@ a:hover {
   width: 100%;
   height: 100%;
   background-color: #2576FD;
-  background: -webkit-gradient(linear, left top, left bottom, from(#1A237E), to(#2576FD));
-  background: linear-gradient(to bottom, #1A237E, #2576FD);
+  background: -webkit-gradient(linear, left top, left bottom, from(#00887b), to(#2576FD));
+  background: linear-gradient(to bottom, #00887b, #2576FD);
   opacity: 0;
   -webkit-transition: all .5s;
   transition: all .5s;
@@ -1284,16 +1285,16 @@ a:hover {
 .price .active {
   -webkit-box-shadow: 0px 20px 40px -10px rgba(0, 0, 0, 0.5);
           box-shadow: 0px 20px 40px -10px rgba(0, 0, 0, 0.5);
-  background-color: #1A237E;
-  background: -webkit-gradient(linear, left top, left bottom, from(#1A237E), to(#2576FD));
-  background: linear-gradient(to bottom, #1A237E, #2576FD);
+  background-color: #00887b;
+  background: -webkit-gradient(linear, left top, left bottom, from(#00887b), to(#2576FD));
+  background: linear-gradient(to bottom, #00887b, #2576FD);
   color: #fff;
 }
 .price .active .features li {
   color: #eee;
 }
 .price .active .butn span {
-  color: #1A237E;
+  color: #00887b;
 }
 .price .butn {
   padding: 10px 30px;
@@ -1345,7 +1346,7 @@ a:hover {
 }
 .blog .item .info .tag {
   padding: 4px;
-  background-color: #1A237E;
+  background-color: #00887b;
   color: #fff;
   float: right;
   line-height: 1;
@@ -1356,7 +1357,7 @@ a:hover {
   margin-top: 10px;
 }
 .blog .item .more:hover {
-  color: #1A237E;
+  color: #00887b;
 }
 .blog .item .more:hover i {
   opacity: 1;
@@ -1420,7 +1421,7 @@ a:hover {
 .contact .contact-info .item .icon {
   float: left;
   font-size: 25px;
-  color: #1A237E;
+  color: #00887b;
 }
 .contact .contact-info .item .cont {
   margin-left: 50px;
@@ -1465,7 +1466,7 @@ footer .social a {
   margin: 15px 5px;
 }
 footer .social a:hover {
-  background-color: #1A237E;
+  background-color: #00887b;
   color: #fff;
 }
 footer p {
@@ -1509,12 +1510,12 @@ footer p {
   }
 
   .navbar {
-    padding-left: 15px;
+    /* padding-left: 15px; */
   }
   .navbar .navbar-collapse {
     max-height: 340px;
     overflow: auto;
-    background: #111;
+    background: white;
     text-align: center;
     padding: 10px 0;
   }
@@ -1526,10 +1527,10 @@ footer p {
     margin-right: 15px;
   }
   .nav-scroll .navbar-collapse .nav-link {
-    color: #fff !important;
+    color: black !important;
   }
   .nav-scroll .navbar-collapse .active {
-    color: #1A237E !important;
+    color: #00887b !important;
   }
 
   .header {
