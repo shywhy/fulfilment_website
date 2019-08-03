@@ -1197,7 +1197,7 @@ a:hover {
 -----------------------------------------------------------------*/
 .testimonials .item-box {
   background: #fff;
-  padding: 30px;
+  /* padding: 30px; */
   border-radius: 10px;
   margin-bottom: 20px;
 }
